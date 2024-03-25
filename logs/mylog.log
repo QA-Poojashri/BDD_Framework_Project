@@ -1,0 +1,154 @@
+[INFO ] 2024-03-25 14:51:05.745 [main] StepDef - Setup is executed
+[FATAL] 2024-03-25 14:51:05.763 [main] StepDef - Setup is executed
+[INFO ] 2024-03-25 14:51:05.838 [main] StepDef - user launch edge browser
+[INFO ] 2024-03-25 14:51:07.356 [main] StepDef - User get URL
+[INFO ] 2024-03-25 14:51:08.069 [main] StepDef - user enter username and password
+[INFO ] 2024-03-25 14:51:09.587 [main] StepDef - user enter login
+[WARN ] 2024-03-25 14:51:11.119 [main] StepDef - login page title is mathed
+[INFO ] 2024-03-25 14:51:12.694 [main] StepDef - user click log out
+[WARN ] 2024-03-25 14:51:12.741 [main] StepDef - login page title is mathed
+[INFO ] 2024-03-25 21:17:48.087 [main] StepDef - Setup is executed
+[FATAL] 2024-03-25 21:17:48.112 [main] StepDef - Setup is executed
+[INFO ] 2024-03-25 21:17:48.201 [main] StepDef - user launch edge browser
+[INFO ] 2024-03-25 21:17:49.952 [main] StepDef - User get URL
+[INFO ] 2024-03-25 21:17:50.344 [main] StepDef - user enter username and password
+[INFO ] 2024-03-25 21:17:51.799 [main] StepDef - user enter login
+[WARN ] 2024-03-25 21:17:53.214 [main] StepDef - login page title is mathed
+[INFO ] 2024-03-25 21:17:54.732 [main] StepDef - user click log out
+[WARN ] 2024-03-25 21:17:54.752 [main] StepDef - login page title is mathed
+[INFO ] 2024-03-25 21:31:07.119 [main] StepDef - Setup is executed
+[FATAL] 2024-03-25 21:31:07.130 [main] StepDef - Setup is executed
+[INFO ] 2024-03-25 21:31:07.196 [main] StepDef - user launch edge browser
+[INFO ] 2024-03-25 21:31:09.401 [main] StepDef - User get URL
+[INFO ] 2024-03-25 21:31:09.983 [main] StepDef - user enter username and password
+[INFO ] 2024-03-25 21:31:11.731 [main] StepDef - user enter login
+[INFO ] 2024-03-25 21:31:13.074 [main] StepDef - User can view Dashboad
+[INFO ] 2024-03-25 21:31:13.078 [main] StepDef - user launch edge browser
+[INFO ] 2024-03-25 21:31:13.467 [main] StepDef - User get URL
+[INFO ] 2024-03-25 21:31:13.885 [main] StepDef - user enter username and password
+[INFO ] 2024-03-25 21:31:14.947 [main] StepDef - user enter login
+[INFO ] 2024-03-25 21:31:15.612 [main] StepDef - User can view Dashboad
+[INFO ] 2024-03-25 21:31:15.613 [main] StepDef - User click on customers Menu
+[INFO ] 2024-03-25 21:31:16.911 [main] StepDef - customer menu item clicked
+[INFO ] 2024-03-25 21:31:17.942 [main] StepDef - clicked on add new button.
+[INFO ] 2024-03-25 21:31:17.952 [main] StepDef - User can view Add new customer page- passed
+[INFO ] 2024-03-25 21:31:19.736 [main] StepDef - customer information is entered
+[INFO ] 2024-03-25 21:31:20.579 [main] StepDef - clicked on save button
+[INFO ] 2024-03-25 21:31:21.258 [main] StepDef - User can view confirmation message - passed
+[INFO ] 2024-03-25 21:31:21.434 [main] StepDef - Browser closed
+[INFO ] 2024-03-25 21:31:24.289 [main] StepDef - Setup is executed
+[FATAL] 2024-03-25 21:31:24.289 [main] StepDef - Setup is executed
+[INFO ] 2024-03-25 21:31:24.292 [main] StepDef - user launch edge browser
+[INFO ] 2024-03-25 21:31:25.674 [main] StepDef - User get URL
+[INFO ] 2024-03-25 21:31:26.181 [main] StepDef - user enter username and password
+[INFO ] 2024-03-25 21:31:27.705 [main] StepDef - user enter login
+[WARN ] 2024-03-25 21:31:29.114 [main] StepDef - login page title is mathed
+[INFO ] 2024-03-25 21:31:30.670 [main] StepDef - user click log out
+[WARN ] 2024-03-25 21:31:30.688 [main] StepDef - login page title is mathed
+[INFO ] 2024-03-25 21:31:30.870 [main] StepDef - Browser closed
+[INFO ] 2024-03-25 22:04:02.589 [main] StepDef - Setup is executed
+[FATAL] 2024-03-25 22:04:02.599 [main] StepDef - Setup is executed
+[INFO ] 2024-03-25 22:04:02.645 [main] StepDef - user launch edge browser
+[INFO ] 2024-03-25 22:04:04.051 [main] StepDef - User get URL
+[INFO ] 2024-03-25 22:04:04.483 [main] StepDef - user enter username and password
+[INFO ] 2024-03-25 22:04:06.663 [main] StepDef - user enter login
+[INFO ] 2024-03-25 22:04:08.000 [main] StepDef - User can view Dashboad
+[INFO ] 2024-03-25 22:04:08.107 [main] StepDef - user launch edge browser
+[INFO ] 2024-03-25 22:04:08.591 [main] StepDef - User get URL
+[INFO ] 2024-03-25 22:04:08.999 [main] StepDef - user enter username and password
+[INFO ] 2024-03-25 22:04:10.226 [main] StepDef - user enter login
+[INFO ] 2024-03-25 22:04:10.770 [main] StepDef - User can view Dashboad
+[INFO ] 2024-03-25 22:04:10.879 [main] StepDef - User click on customers Menu
+[INFO ] 2024-03-25 22:04:12.071 [main] StepDef - customer menu item clicked
+[INFO ] 2024-03-25 22:04:13.042 [main] StepDef - clicked on add new button.
+[INFO ] 2024-03-25 22:04:13.555 [main] StepDef - User can view Add new customer page- passed
+[INFO ] 2024-03-25 22:04:14.433 [main] StepDef - customer information is entered
+[INFO ] 2024-03-25 22:04:15.279 [main] StepDef - clicked on save button
+[INFO ] 2024-03-25 22:04:15.828 [main] StepDef - User can view confirmation message - passed
+[INFO ] 2024-03-25 22:04:16.124 [main] StepDef - Browser closed
+[INFO ] 2024-03-25 22:04:18.540 [main] StepDef - Setup is executed
+[FATAL] 2024-03-25 22:04:18.540 [main] StepDef - Setup is executed
+[INFO ] 2024-03-25 22:04:18.541 [main] StepDef - user launch edge browser
+[INFO ] 2024-03-25 22:04:20.014 [main] StepDef - User get URL
+[INFO ] 2024-03-25 22:04:20.366 [main] StepDef - user enter username and password
+[INFO ] 2024-03-25 22:04:23.396 [main] StepDef - user enter login
+[WARN ] 2024-03-25 22:04:24.754 [main] StepDef - login page title is mathed
+[INFO ] 2024-03-25 22:04:26.446 [main] StepDef - user click log out
+[WARN ] 2024-03-25 22:04:26.587 [main] StepDef - login page title is mathed
+[INFO ] 2024-03-25 22:04:26.859 [main] StepDef - Browser closed
+[INFO ] 2024-03-25 22:08:20.001 [main] StepDef - Setup is executed
+[FATAL] 2024-03-25 22:08:20.011 [main] StepDef - Setup is executed
+[INFO ] 2024-03-25 22:08:20.057 [main] StepDef - user launch edge browser
+[INFO ] 2024-03-25 22:08:21.263 [main] StepDef - User get URL
+[INFO ] 2024-03-25 22:08:21.570 [main] StepDef - user enter username and password
+[INFO ] 2024-03-25 22:08:23.001 [main] StepDef - user enter login
+[INFO ] 2024-03-25 22:08:24.230 [main] StepDef - User can view Dashboad
+[INFO ] 2024-03-25 22:08:24.232 [main] StepDef - user launch edge browser
+[INFO ] 2024-03-25 22:08:24.570 [main] StepDef - User get URL
+[INFO ] 2024-03-25 22:08:24.788 [main] StepDef - user enter username and password
+[INFO ] 2024-03-25 22:08:25.778 [main] StepDef - user enter login
+[INFO ] 2024-03-25 22:08:26.223 [main] StepDef - User can view Dashboad
+[INFO ] 2024-03-25 22:08:26.225 [main] StepDef - User click on customers Menu
+[INFO ] 2024-03-25 22:09:11.545 [main] StepDef - customer menu item clicked
+[INFO ] 2024-03-25 22:09:13.291 [main] StepDef - clicked on add new button.
+[INFO ] 2024-03-25 22:09:13.306 [main] StepDef - User can view Add new customer page- passed
+[INFO ] 2024-03-25 22:09:14.562 [main] StepDef - customer information is entered
+[INFO ] 2024-03-25 22:09:15.374 [main] StepDef - clicked on save button
+[INFO ] 2024-03-25 22:09:15.884 [main] StepDef - User can view confirmation message - passed
+[INFO ] 2024-03-25 22:09:16.033 [main] StepDef - Browser closed
+[INFO ] 2024-03-25 22:09:18.403 [main] StepDef - Setup is executed
+[FATAL] 2024-03-25 22:09:18.404 [main] StepDef - Setup is executed
+[INFO ] 2024-03-25 22:09:18.405 [main] StepDef - user launch edge browser
+[INFO ] 2024-03-25 22:09:19.943 [main] StepDef - User get URL
+[INFO ] 2024-03-25 22:09:20.199 [main] StepDef - user enter username and password
+[INFO ] 2024-03-25 22:09:22.760 [main] StepDef - user enter login
+[WARN ] 2024-03-25 22:09:24.103 [main] StepDef - login page title is mathed
+[INFO ] 2024-03-25 22:09:26.029 [main] StepDef - user click log out
+[WARN ] 2024-03-25 22:09:26.042 [main] StepDef - login page title is mathed
+[INFO ] 2024-03-25 22:09:26.168 [main] StepDef - Browser closed
+[INFO ] 2024-03-25 22:11:06.344 [main] StepDef - Setup is executed
+[FATAL] 2024-03-25 22:11:06.352 [main] StepDef - Setup is executed
+[INFO ] 2024-03-25 22:11:06.424 [main] StepDef - user launch edge browser
+[INFO ] 2024-03-25 22:11:07.925 [main] StepDef - User get URL
+[INFO ] 2024-03-25 22:11:08.241 [main] StepDef - user enter username and password
+[INFO ] 2024-03-25 22:11:10.690 [main] StepDef - user enter login
+[INFO ] 2024-03-25 22:11:11.973 [main] StepDef - User can view Dashboad
+[INFO ] 2024-03-25 22:11:11.976 [main] StepDef - user launch edge browser
+[INFO ] 2024-03-25 22:11:12.307 [main] StepDef - User get URL
+[INFO ] 2024-03-25 22:11:12.542 [main] StepDef - user enter username and password
+[INFO ] 2024-03-25 22:11:13.481 [main] StepDef - user enter login
+[INFO ] 2024-03-25 22:11:13.919 [main] StepDef - User can view Dashboad
+[INFO ] 2024-03-25 22:11:13.920 [main] StepDef - User click on customers Menu
+[INFO ] 2024-03-25 22:11:15.216 [main] StepDef - customer menu item clicked
+[INFO ] 2024-03-25 22:11:16.005 [main] StepDef - clicked on add new button.
+[INFO ] 2024-03-25 22:11:16.010 [main] StepDef - User can view Add new customer page- passed
+[INFO ] 2024-03-25 22:11:17.164 [main] StepDef - customer information is entered
+[INFO ] 2024-03-25 22:11:17.842 [main] StepDef - clicked on save button
+[INFO ] 2024-03-25 22:11:18.311 [main] StepDef - User can view confirmation message - passed
+[INFO ] 2024-03-25 22:11:18.472 [main] StepDef - Browser closed
+[INFO ] 2024-03-25 22:11:20.761 [main] StepDef - Setup is executed
+[FATAL] 2024-03-25 22:11:20.761 [main] StepDef - Setup is executed
+[INFO ] 2024-03-25 22:11:20.762 [main] StepDef - user launch edge browser
+[INFO ] 2024-03-25 22:11:21.259 [main] StepDef - User get URL
+[INFO ] 2024-03-25 22:11:21.524 [main] StepDef - user enter username and password
+[INFO ] 2024-03-25 22:11:23.108 [main] StepDef - user enter login
+[WARN ] 2024-03-25 22:11:23.626 [main] StepDef - login page title is mathed
+[INFO ] 2024-03-25 22:11:24.939 [main] StepDef - user click log out
+[WARN ] 2024-03-25 22:11:24.952 [main] StepDef - login page title not mathed
+[INFO ] 2024-03-25 22:11:27.394 [main] StepDef - Setup is executed
+[FATAL] 2024-03-25 22:11:27.395 [main] StepDef - Setup is executed
+[INFO ] 2024-03-25 22:11:27.397 [main] StepDef - user launch edge browser
+[INFO ] 2024-03-25 22:11:28.786 [main] StepDef - User get URL
+[INFO ] 2024-03-25 22:11:29.091 [main] StepDef - user enter username and password
+[INFO ] 2024-03-25 22:11:31.193 [main] StepDef - user enter login
+[WARN ] 2024-03-25 22:11:32.417 [main] StepDef - login page title is mathed
+[INFO ] 2024-03-25 22:11:34.046 [main] StepDef - user click log out
+[WARN ] 2024-03-25 22:11:34.053 [main] StepDef - login page title is mathed
+[INFO ] 2024-03-25 22:11:34.169 [main] StepDef - Browser closed
+[INFO ] 2024-03-25 22:11:36.472 [main] StepDef - Setup is executed
+[FATAL] 2024-03-25 22:11:36.473 [main] StepDef - Setup is executed
+[INFO ] 2024-03-25 22:11:36.474 [main] StepDef - user launch edge browser
+[INFO ] 2024-03-25 22:11:37.744 [main] StepDef - User get URL
+[INFO ] 2024-03-25 22:11:38.014 [main] StepDef - user enter username and password
+[INFO ] 2024-03-25 22:11:38.576 [main] StepDef - user enter login
+[WARN ] 2024-03-25 22:11:38.587 [main] StepDef - login page title not mathed
